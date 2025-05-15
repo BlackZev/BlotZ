@@ -1,0 +1,31 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "blotzBack",
+    "buildTool": "maven",
+    "cacheProvider": "redis",
+    "creationTimestamp": 1747303075260,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "enableHibernateCache": true,
+    "enableSwaggerCodegen": true,
+    "enableTranslation": true,
+    "entities": [],
+    "feignClient": null,
+    "jhipsterVersion": "8.11.0",
+    "jwtSecretKey": "Mjk5NjFjNTRjYjJmNGQ3ZDk4YzU3NzgxYjM2ODcyOTQzY2ZmYzAwMjhkOGZiMzc5MjIzOGVkNzA1MTMyMTJhOGUyNjE1MDdhOGE2ZDk1ZTgyMDczZDdmMjY1MGNiZTg3NmM2ZDJkN2E0NmZlYjUxN2Y1ZTVhZDI2Y2ZjNDJhNDc=",
+    "languages": ["fr", "en", "es"],
+    "monorepository": true,
+    "nativeLanguage": "fr",
+    "packageName": "com.blackzev.blotz",
+    "prodDatabaseType": "mysql",
+    "reactive": false,
+    "serverPort": null,
+    "serviceDiscoveryType": null,
+    "skipClient": true,
+    "skipCommitHook": true,
+    "syncUserWithIdp": null,
+    "testFrameworks": []
+  }
+}

@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = \
+    com.blackzev.blotz.config.\
+    SqlTestContainersSpringContextCustomizerFactory,com.blackzev.blotz.config.\
+    RedisTestContainersSpringContextCustomizerFactory
