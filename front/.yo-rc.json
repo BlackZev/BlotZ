@@ -1,0 +1,16 @@
+{
+  "generator-jhipster": {
+    "baseName": "front",
+    "creationTimestamp": 1747300790043,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "entities": [],
+    "jhipsterVersion": "8.11.0",
+    "languages": ["en"],
+    "monorepository": true,
+    "nativeLanguage": "en",
+    "prodDatabaseType": "mysql",
+    "skipCommitHook": true,
+    "skipServer": true
+  }
+}
