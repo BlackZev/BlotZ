@@ -2,6 +2,7 @@
   "generator-jhipster": {
     "baseName": "front",
     "creationTimestamp": 1747300790043,
+    "cypressTests": true,
     "databaseType": "sql",
     "devDatabaseType": "mysql",
     "entities": [],
@@ -11,6 +12,7 @@
     "nativeLanguage": "en",
     "prodDatabaseType": "mysql",
     "skipCommitHook": true,
-    "skipServer": true
+    "skipServer": true,
+    "testFrameworks": ["cypress"]
   }
 }
