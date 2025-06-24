@@ -42,5 +42,5 @@ jobs:
             -Dsonar.test.inclusions=src/test/**/*.*,src/main/webapp/app/**/*.spec.ts
             -Dsonar.testExecutionReportPaths=target/test-results/jest/TESTS-results-sonar.xml
             -Dsonar.javascript.lcov.reportPaths=target/test-results/lcov.info
-            -Dsonar.javascript.file.suffixes=.js,.ts
-            
+            -Dsonar.javascript.file.suffixes=.js
+            -Dsonar.typescript.file.suffixes=.ts,.tsx,.cts,.mts
